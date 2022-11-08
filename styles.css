@@ -137,3 +137,32 @@ button{
     font-size: 14px;
     font-weight: bold;
 }
+.sell-banner-section-background{
+    background-color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    padding: 80px;
+}
+.sell-banner{
+    width: 1050px;
+    box-sizing: border-box;
+    border-radius: 1rem;
+    display: flex;
+    background-color: #3882f6;
+    padding: 80px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.call{
+    font-weight: bold;
+    font-size: 20px;
+}
+.moew-up{
+    border: 1px #e5e7eb solid;
+}
+.footer{
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
